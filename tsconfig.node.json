@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "outDir": "build/electron",
+        "rootDir": "electron",
+        "strict": true
+    },
+    "include": [
+        "electron/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

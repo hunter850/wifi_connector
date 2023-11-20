@@ -1,0 +1,11 @@
+# 下載 vs code 插件 browserslist，並將右下角 Select Language Mode 改成 Browserslit，或不予理會直接使用 plaintext
+[production]
+> 1%
+last 2 versions
+not dead
+# ie 11
+
+[development]
+last 1 chrome version
+last 1 firefox version
+last 1 safari version
